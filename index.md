@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages
+
+For now I just created the page.
+
+Regards,
+gitoldi
+
+---
+
+## Original text provided by the selected GitHub theme during the creation.
 
 You can use the [editor on GitHub](https://github.com/gitoldi/gitoldi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
