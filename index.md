@@ -2,6 +2,11 @@
 
 For now I just created the page.
 
+Some pointers:
+
++ [Use Jekyll to create pages](https://help.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)
++ ..
+
 Regards,
 gitoldi
 
